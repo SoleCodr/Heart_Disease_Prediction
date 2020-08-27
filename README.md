@@ -17,3 +17,6 @@ Machine Learning algorithms used:
 Accuracy achieved: 95% (Random Forest)
 
 Dataset used: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+### WebApp for this project:
+[Heart Disease Prediction](https://heart-disease-prediction-appz.herokuapp.com/)
